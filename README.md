@@ -11,13 +11,13 @@ A beginner-friendly guide to NumPy with practical examples and exercises.
 - Array Modification
 - Mathematical Operations
 - Array Initialization
+- Linear Algebra
+- Statistics
+- Reorganizing
 
 ## Upcoming Topics
 
-- Statistics
-- Reshaping
 - Broadcasting
-- Linear Algebra
 - Boolean Masking
 
 ## Author
