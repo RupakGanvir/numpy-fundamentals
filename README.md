@@ -1,24 +1,18 @@
-# NumPy for Machine Learning
+# NumPy Fundamentals
 
-A beginner-friendly guide to NumPy with practical examples and exercises.
-
-## Topics Covered
+Topics Covered
 
 - Array Creation
-- Array Attributes
-- Indexing and Slicing
-- 2D and 3D Arrays
-- Array Modification
-- Mathematical Operations
+- Indexing
+- Slicing
+- 3D Arrays
 - Array Initialization
-- Linear Algebra
+- Mathematics
 - Statistics
-- Reorganizing
-
-## Upcoming Topics
-
-- Broadcasting
+- Linear Algebra
+- Reshaping
 - Boolean Masking
+- Advanced Indexing
 
 ## Author
 
