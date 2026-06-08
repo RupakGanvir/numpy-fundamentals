@@ -12,7 +12,9 @@ Topics Covered
 - Linear Algebra
 - Reshaping
 - Boolean Masking
-- Advanced Indexing
+- Loading Data
+- Broadcasting
+- Transpose
 
 ## Author
 
