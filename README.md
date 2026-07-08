@@ -6,7 +6,6 @@ A beginner-friendly NumPy learning repository covering the essential concepts re
 
 ## Topics Covered
 
-- Introduction to NumPy
 - Creating Arrays
 - Array Attributes (`shape`, `dtype`, `ndim`, `size`, etc.)
 - Indexing and Slicing
@@ -22,7 +21,6 @@ A beginner-friendly NumPy learning repository covering the essential concepts re
 - Transpose
 - Boolean Masking
 - Advanced Indexing
-- Loading Data from Files
 - Useful NumPy Functions
 - Practice Exercises
 - Key Takeaways
@@ -49,8 +47,7 @@ After completing this notebook, you will be able to:
 ```text
 .
 ├── NumPy_Fundamentals.ipynb
-├── README.md
-└── data.txt
+└── README.md
 ```
 
 ---
